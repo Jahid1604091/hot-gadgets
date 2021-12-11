@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar a img{
+    height: 80px;
+    width: 160px;
+}
+
+.slider{
+    background-image: url('../images/bg-1.png');
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.carousel-indicators button{
+    background-color: orange !important;
+   
+}
+
+.caption a{
+    color: orange !important;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.border-bottom{
+    background-color: orange;
+    width: 100px;
+    height: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.categories img{
+    margin: auto;
+    text-align: center;
+}
